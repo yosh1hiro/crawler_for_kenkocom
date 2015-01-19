@@ -1,5 +1,10 @@
-# テスト投稿
-この記事にしたがって、githubとの連携をおこなった。連携できたかな？
-API IDを利用。Hipchat側でリポジトリも設定。
+# Kohikan
 
-http://qiita.com/bohnen/items/0be0a1fff19d51fbceeb
+## Overview
+Ruby製のクローラー。  
+
+## Description
+ケンコーコム(kenko.com)内をクローリングするためのクローラー。
+フレームワークはanemoneを使用。
+データベースはmongoを使用。csvで出力機能有り。
+
